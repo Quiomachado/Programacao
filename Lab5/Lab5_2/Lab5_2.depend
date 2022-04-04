@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1649110693 source:/media/sf_Documents/LabsKubuntu/Lab5_2/main2.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

@@ -1,3 +1,0 @@
-C:/Users/henri/OneDrive/Documents/Programacao/L5/cmake-build-debug/CMakeFiles/L5.dir
-C:/Users/henri/OneDrive/Documents/Programacao/L5/cmake-build-debug/CMakeFiles/edit_cache.dir
-C:/Users/henri/OneDrive/Documents/Programacao/L5/cmake-build-debug/CMakeFiles/rebuild_cache.dir
